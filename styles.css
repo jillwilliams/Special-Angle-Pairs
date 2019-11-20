@@ -3,9 +3,20 @@ body {
     font-size: 1.5rem;
     letter-spacing: 3px;
     margin: 15px 35px 45px 35px;
-
+    background-image: linear-gradient(orange, yellow);
 }
 h1 {
     text-align: center;
     font-size: 2rem;
+}
+#img1, #img2, #img3, #img4, #img5, #img6, #img7, #img8, #img9, #img10, #img11, #img12 {
+    width: 40%;
+    height: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 1px black solid;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
 }
